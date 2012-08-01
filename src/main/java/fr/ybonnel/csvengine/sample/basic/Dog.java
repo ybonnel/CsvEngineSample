@@ -1,4 +1,4 @@
-package fr.ybo.csvengine.sample.basic;
+package fr.ybonnel.csvengine.sample.basic;
 
 import fr.ybo.csvengine.annotation.CsvColumn;
 import fr.ybo.csvengine.annotation.CsvFile;
