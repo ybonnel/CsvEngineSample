@@ -1,8 +1,9 @@
 package fr.ybonnel.csvengine.sample.basic;
 
-import fr.ybo.csvengine.CsvEngine;
-import fr.ybo.csvengine.exception.CsvErrorsExceededException;
-import fr.ybo.csvengine.model.InsertObject;
+
+import fr.ybonnel.csvengine.CsvEngine;
+import fr.ybonnel.csvengine.exception.CsvErrorsExceededException;
+import fr.ybonnel.csvengine.model.InsertObject;
 
 import java.io.InputStream;
 import java.io.InputStreamReader;

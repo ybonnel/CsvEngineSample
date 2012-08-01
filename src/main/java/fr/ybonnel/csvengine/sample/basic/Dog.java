@@ -1,7 +1,7 @@
 package fr.ybonnel.csvengine.sample.basic;
 
-import fr.ybo.csvengine.annotation.CsvColumn;
-import fr.ybo.csvengine.annotation.CsvFile;
+import fr.ybonnel.csvengine.annotation.CsvColumn;
+import fr.ybonnel.csvengine.annotation.CsvFile;
 
 /**
  * Class representing a Dog.
